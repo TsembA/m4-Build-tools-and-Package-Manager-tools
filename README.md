@@ -1,11 +1,11 @@
 ### What are Build and Package Manager Tools? 
-Lets sya the application needs to be deployed on a production server
+Lets say the application needs to be deployed on a production server.
 For that, we want to package application into a single moveable file (artifact), also called "building the code"
 his is what a build tool or package manager tool does
 
 ### What is an "artifact"?
 * Moveable file that includes application code and all its dependencies
-* 
+
 ### What does "building the code" mean?
 * Compiling the code
 * Compressing the code
